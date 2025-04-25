@@ -2,8 +2,6 @@
 
 I am a creative front-end developer with over 4+ years of experience in delivering impactful web solutions across various industries. My expertise lies in designing and developing advanced web applications using modern technologies such as HTML, CSS, JavaScript, Vue, React, Next.js, and Nuxt.js. By combining my extensive background with strong technical skills, I have been able to create exceptional and innovative user experiences.
 
----
-
 ### 🛠️ Tech Stack
 
 ## Core Technologies
@@ -53,7 +51,6 @@ I am a creative front-end developer with over 4+ years of experience in deliveri
 ### Currently Learning
 - Advanced TypeScript Patterns
 - Web Performance Optimization
-- 
 ### Future Goals
 - Diving into nodejs
 
@@ -61,6 +58,5 @@ I am a creative front-end developer with over 4+ years of experience in deliveri
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-mohseni78)
 
----
 
 > Always learning, always growing 🌱
