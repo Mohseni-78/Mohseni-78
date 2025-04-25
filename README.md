@@ -6,7 +6,7 @@ I am a creative front-end developer with over 7 years of experience in deliverin
 
 ### 🛠️ Tech Stack
 
-## 🛠️ Core Technologies
+## Core Technologies
 
   ![HTML Badge](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white&style=for-the-badge&size=large)
   ![CSS Badge](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white&style=for-the-badge&size=large)
