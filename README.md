@@ -5,16 +5,57 @@ I am a creative front-end developer with over 7 years of experience in deliverin
 ---
 
 ### 🛠️ Tech Stack
+## 💻 Core Technologies
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![Zustand](https://img.shields.io/badge/-Zustand-000?logo=react)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+## 📚 Frameworks & Libraries
+
+### Vue Ecosystem
+- Vue.js
+- Nuxt.js
+- Vuetify
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+
+### React Ecosystem
+- React.js
+- Next.js
+- Redux
+- React Query
+
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+
+## 🎨 Styling Solutions
+
+- Tailwind CSS
+- SASS
+
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+## ⚙️ Development Tools
+
+- Vite
+- NPM
+- Yarn
+
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 
 ---
 
