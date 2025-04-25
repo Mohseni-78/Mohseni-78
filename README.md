@@ -4,17 +4,7 @@ I am a creative front-end developer with over 7 years of experience in deliverin
 
 ---
 
-### 🧑‍💻 درباره من
-
-- 🔭 در حال حاضر روی پروژه‌های مرتبط با **Next.js** و **Vue.js** کار می‌کنم
-- 🌱 در حال یادگیری عمیق **Node.js** و مفاهیم **Full-Stack Development**
-- 🎯 هدفم رسیدن به سطح **Senior Front-end Developer**
-- 💬 خوشحال می‌شم درباره React, Next.js, Vue, Zustand باهام صحبت کنی
-- 📫 ایمیل من: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-### 🛠️ مهارت‌های فنی
+### 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
