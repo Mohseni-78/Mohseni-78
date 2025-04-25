@@ -42,13 +42,9 @@ I am a creative front-end developer with over 4+ years of experience in deliveri
 
 ### 📊 Stats & Activity
 
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohseni-78&theme=react-dark)
-  <br />
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohseni-78&theme=dark)
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohseni-78&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
