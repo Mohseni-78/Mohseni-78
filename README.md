@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I am Alireza Mohseni 👋</h1>
 
-## 👨‍💻 About Me
-
 I am a creative front-end developer with over 7 years of experience in delivering impactful web solutions across various industries. My expertise lies in designing and developing advanced web applications using modern technologies such as HTML, CSS, JavaScript, Vue, React, Next.js, and Nuxt.js. By combining my extensive background with strong technical skills, I have been able to create exceptional and innovative user experiences.
 
 ---
