@@ -54,9 +54,12 @@ I am a creative front-end developer with over 4+ years of experience in deliveri
 ### Future Goals
 - Diving into nodejs
 
+
+
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-mohseni78)
 
+---
 
 > Always learning, always growing 🌱
