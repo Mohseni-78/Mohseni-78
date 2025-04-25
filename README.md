@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Alireza Mohseni 👋</h1>
 
-I am a creative front-end developer with over 7 years of experience in delivering impactful web solutions across various industries. My expertise lies in designing and developing advanced web applications using modern technologies such as HTML, CSS, JavaScript, Vue, React, Next.js, and Nuxt.js. By combining my extensive background with strong technical skills, I have been able to create exceptional and innovative user experiences.
+I am a creative front-end developer with over 4+ years of experience in delivering impactful web solutions across various industries. My expertise lies in designing and developing advanced web applications using modern technologies such as HTML, CSS, JavaScript, Vue, React, Next.js, and Nuxt.js. By combining my extensive background with strong technical skills, I have been able to create exceptional and innovative user experiences.
 
 ---
 
@@ -40,31 +40,32 @@ I am a creative front-end developer with over 7 years of experience in deliverin
   ![Yarn Badge](https://img.shields.io/badge/Yarn-1.x-blue?logo=yarn&logoColor=white&style=for-the-badge&size=large)
 ---
 
-### 📌 پروژه‌های برجسته
-
-| عنوان پروژه | توضیح | لینک |
-|-------------|--------|-------|
-| 🔐 Google Auth Flow | فرم احراز هویت با Google و OTP | [مشاهده پروژه](#) |
-| 🎨 Chrome Extension | اکستنشن با تغییر بک‌گراند و مدیریت state با Zustand | [مشاهده پروژه](#) |
-| 💱 Crypto Exchange | پنل ترید با Vue 2 و Vuetify | [مشاهده پروژه](#) |
-
----
-
-### 📊 فعالیت گیت‌هاب
+### 📊 Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohseni-78&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohseni-78&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohseni-78&theme=react-dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohseni-78&theme=dark)
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohseni-78&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🌐 شبکه‌های اجتماعی
+## 🚀 What's Next
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+### Currently Learning
+- Advanced TypeScript Patterns
+- Web Performance Optimization
+- 
+### Future Goals
+- Diving into nodejs
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-mohseni78)
 
 ---
 
-> همیشه در حال یادگیری، همیشه در حال رشد 🌱
+> Always learning, always growing 🌱
